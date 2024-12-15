@@ -1,25 +1,24 @@
 const routes = [
   {
-    path: ["/", "/home"],
+    path: [`${process.env.PUBLIC_URL}/`, `${process.env.PUBLIC_URL}/home`],
     component: "Home",
   },
   {
-    path: ["/product/inspection-robot"],
+    path: [`${process.env.PUBLIC_URL}/product/inspection-robot`],
     component: "Product - Inspection Robot",
   },
   {
-    path: ["/product/dual-robot"],
+    path: [`${process.env.PUBLIC_URL}/product/dual-robot`],
     component: "Product - Dual Robot",
   },
   {
-    path: ["/press"],
+    path: [`${process.env.PUBLIC_URL}/press`],
     component: "Press",
   },
   {
-    path: ["/publication-and-patent"],
+    path: [`${process.env.PUBLIC_URL}/publication-and-patent`],
     component: "Publication & Patent",
   },
 ];
-
 
 export default routes;
