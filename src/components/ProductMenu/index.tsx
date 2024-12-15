@@ -7,7 +7,7 @@ const ProductMenu = () => {
 
   return (
     <Menu>
-      <Menu.Item key="1" onClick={() => navigate(`${process.env.PUBLIC_URL}/product/inspection-robot`)}>
+      <Menu.Item key="1" onClick={() => navigate(`/product/inspection-robot`)}>
         Inspection Robot
       </Menu.Item>
       {/* <Menu.Item key="2" onClick={() => navigate("product/dual-robot")}>
