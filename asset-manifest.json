@@ -1,35 +1,35 @@
 {
   "files": {
     "main.css": "/landy/static/css/main.18dfb25f.css",
-    "main.js": "/landy/static/js/main.cc548fdd.js",
+    "main.js": "/landy/static/js/main.875a1b56.js",
     "static/js/614.139816ca.chunk.js": "/landy/static/js/614.139816ca.chunk.js",
     "static/js/739.c5c75937.chunk.js": "/landy/static/js/739.c5c75937.chunk.js",
     "static/js/816.e952c196.chunk.js": "/landy/static/js/816.e952c196.chunk.js",
     "static/js/953.10169e13.chunk.js": "/landy/static/js/953.10169e13.chunk.js",
     "static/js/725.40ea7153.chunk.js": "/landy/static/js/725.40ea7153.chunk.js",
     "static/js/609.53e0b905.chunk.js": "/landy/static/js/609.53e0b905.chunk.js",
-    "static/js/281.36002bcf.chunk.js": "/landy/static/js/281.36002bcf.chunk.js",
+    "static/js/281.683c367b.chunk.js": "/landy/static/js/281.683c367b.chunk.js",
     "static/js/722.186e3727.chunk.js": "/landy/static/js/722.186e3727.chunk.js",
-    "static/js/290.d1d7771a.chunk.js": "/landy/static/js/290.d1d7771a.chunk.js",
+    "static/js/290.c36d565d.chunk.js": "/landy/static/js/290.c36d565d.chunk.js",
     "static/js/758.df18b2ed.chunk.js": "/landy/static/js/758.df18b2ed.chunk.js",
     "static/js/754.ff5be130.chunk.js": "/landy/static/js/754.ff5be130.chunk.js",
     "index.html": "/landy/index.html",
     "main.18dfb25f.css.map": "/landy/static/css/main.18dfb25f.css.map",
-    "main.cc548fdd.js.map": "/landy/static/js/main.cc548fdd.js.map",
+    "main.875a1b56.js.map": "/landy/static/js/main.875a1b56.js.map",
     "614.139816ca.chunk.js.map": "/landy/static/js/614.139816ca.chunk.js.map",
     "739.c5c75937.chunk.js.map": "/landy/static/js/739.c5c75937.chunk.js.map",
     "816.e952c196.chunk.js.map": "/landy/static/js/816.e952c196.chunk.js.map",
     "953.10169e13.chunk.js.map": "/landy/static/js/953.10169e13.chunk.js.map",
     "725.40ea7153.chunk.js.map": "/landy/static/js/725.40ea7153.chunk.js.map",
     "609.53e0b905.chunk.js.map": "/landy/static/js/609.53e0b905.chunk.js.map",
-    "281.36002bcf.chunk.js.map": "/landy/static/js/281.36002bcf.chunk.js.map",
+    "281.683c367b.chunk.js.map": "/landy/static/js/281.683c367b.chunk.js.map",
     "722.186e3727.chunk.js.map": "/landy/static/js/722.186e3727.chunk.js.map",
-    "290.d1d7771a.chunk.js.map": "/landy/static/js/290.d1d7771a.chunk.js.map",
+    "290.c36d565d.chunk.js.map": "/landy/static/js/290.c36d565d.chunk.js.map",
     "758.df18b2ed.chunk.js.map": "/landy/static/js/758.df18b2ed.chunk.js.map",
     "754.ff5be130.chunk.js.map": "/landy/static/js/754.ff5be130.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.18dfb25f.css",
-    "static/js/main.cc548fdd.js"
+    "static/js/main.875a1b56.js"
   ]
 }
