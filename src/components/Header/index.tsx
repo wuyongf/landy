@@ -68,7 +68,7 @@ const Header = ({ t }: { t: TFunction }) => {
         <CustomNavLinkSmall
           style={{ width: "180px" }}
           onClick={() => {
-            navigate("/home"); // Navigate to /home first
+            navigate(`${process.env.PUBLIC_URL}/home`); // Navigate to /home first
             setTimeout(() => {
               const element = document.getElementById("contact");
               if (element) {
