@@ -1,0 +1,26 @@
+{
+  "title": "Robot Management System",
+  "text": "Our cutting-edge Robot Management System combines Robotics, IoT, Digital Twin, and AI Analytics for seamless operations.",
+  "section": [
+    {
+      "title": "Multi-Brand Compatibility",
+      "content": "Manage various robot brands in a unified interface.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "IoT Integration",
+      "content": "Supports door and lift access control. Also support real-time monitoring.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Digital Twin",
+      "content": "Monitor equipment in real-time within a 3D model.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "AI-Powered Insights",
+      "content": "e.g. Lift noise inspection for early fault detection. Ceiling water leakage analysis for proactive maintenance.",
+      "icon": "notes.svg"
+    }
+  ]
+}

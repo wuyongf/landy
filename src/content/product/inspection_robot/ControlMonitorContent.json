@@ -1,0 +1,27 @@
+{
+  "title": "Control & Monitor",
+  "text": "NWRM enables real-time robot control and monitoring for optimal operational efficiency.",
+  "section": [
+    {
+      "title": "Scheduled Mission",
+      "content": "Set up and automate routine tasks for consistent performance.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Mission Execution",
+      "content": "Launch and manage missions with precision and oversight.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Live Streaming",
+      "content": "Monitor robot activities live for quick situational assessments.",
+      "icon": "notes.svg"
+    },
+
+    {
+      "title": "Records & Notification",
+      "content": "Receive timely updates and access a complete mission history for accountability.",
+      "icon": "notes.svg"
+    }
+  ]
+}

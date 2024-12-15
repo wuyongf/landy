@@ -1,0 +1,21 @@
+{
+  "title": "AI Inspection",
+  "text": "Benefit from AI-powered tools for thorough inspections and early issue identification.",
+  "section": [
+    {
+      "title": "IAQ Inspection",
+      "content": "Indoor Air Quality(IAQ) monitoring, conduct daily IAQ checks with results visualized within the digital twin environment.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Water Leak Detection",
+      "content": "Identify and address water leaks proactively.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Lift Noise Analysis",
+      "content": "Detect and act on abnormal lift noise to prevent potential malfunctions.",
+      "icon": "notes.svg"
+    }
+  ]
+}

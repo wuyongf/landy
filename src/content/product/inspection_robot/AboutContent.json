@@ -1,0 +1,26 @@
+{
+  "title": "All-in-One Platform",
+  "text": "",
+  "section": [
+    {
+      "title": "Multi-Brand Compatibility",
+      "content": "Easily manage and control various robot brands within one unified system.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "IoT Integration",
+      "content": "Control and monitor IoT-connected systems like door and elevator access, with real-time status updates.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Digital Twin Visualization",
+      "content": "Access a real-time 3D model for immersive equipment monitoring and spatial awareness.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "AI-Powered Insights",
+      "content": "Advanced analytics for proactive maintenance, including lift noise inspection and ceiling water leak detection.",
+      "icon": "notes.svg"
+    }
+  ]
+}
