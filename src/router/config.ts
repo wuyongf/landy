@@ -4,7 +4,7 @@ const routes = [
     component: "Home",
   },
   {
-    path: ["/product/inspection-robot"],
+    path: ["landy/product/inspection-robot"],
     component: "Product - Inspection Robot",
   },
   {
